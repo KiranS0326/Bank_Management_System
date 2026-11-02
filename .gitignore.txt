@@ -1,0 +1,19 @@
+# Eclipse Workspace Metadata
+.metadata/
+.metadata
+
+# Backend Build & IDE files
+BankManagementSystem/target/
+BankManagementSystem/.settings/
+BankManagementSystem/.classpath
+BankManagementSystem/.project
+BankManagementSystem/.idea/
+
+# Frontend Build & Node Modules
+bank-frontend/node_modules/
+bank-frontend/dist/
+bank-frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
